@@ -1,0 +1,6 @@
+.cache
+__pycache__
+*.pyo
+*.pyc
+.tox
+*.egg-info

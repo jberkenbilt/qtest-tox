@@ -1,0 +1,3 @@
+# test-specific requirements go here
+pytest
+moto
